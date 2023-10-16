@@ -1,5 +1,5 @@
 // @file /src/components/PokemonCard.tsx
-import { Pokemon } from '@/@types/pokemon';
+import { Pokemon } from "@/@types/pokemon";
 
 interface PokemonCardProps {
   pokemon: Pokemon;
